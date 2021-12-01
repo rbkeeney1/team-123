@@ -22,7 +22,7 @@ library(reactable)
 # library(htmltools)
 # library(ggrepel)
 library(tidyr)
-# library(showtext)
+library(showtext)
 
 # Data --------------------------------------------------------------------
 
